@@ -17,4 +17,8 @@ This repository is a part of my easy GNSS project. It provides a GNSS front end 
 ## How to use the output file
 
 
+## Acknowledgement
+We would like to thank Dr. Feng Zhou for providing the excellent software GAMP and Dr. Tomoji Takasu for developing the RTKLIB software. This project is jointly developed by Shizhuang Wang and Hao Zhang.
+
+
 
