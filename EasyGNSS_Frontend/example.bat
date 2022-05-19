@@ -1,0 +1,1 @@
+EasyGNSS_Frontend E:\Your path\EasyGNSS_Frontend.cfg
